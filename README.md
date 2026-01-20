@@ -1,5 +1,7 @@
 
 video demo link : https://www.linkedin.com/posts/joyal-b-biju_awsdevopsstudyjourney-devops-jenkins-activity-7419391284873752576-U-ca?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOYVEUBMjlCxUnrt-z_-vsQbAqplN67pJ8
+
+
 linkedin post : https://www.linkedin.com/posts/joyal-b-biju_awsdevopsstudyjourney-devops-jenkins-activity-7419390584706056193-fLn3?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEOYVEUBMjlCxUnrt-z_-vsQbAqplN67pJ8
 
 
